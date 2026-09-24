@@ -1,4 +1,4 @@
-# Nanotime NT-1: Documentação Técnica & Manual do Sistema
+# Nanotime NT-1: Documentação Técnica & Manual do Sistema (MVP)
 
 <div align="center">
   <h3>O Veículo Aéreo e Terrestre de Mobilidade Híbrida (eVTOL / Buggy Off-Road)</h3>
