@@ -3,6 +3,7 @@
 <div align="center">
   <h3>O Veículo Aéreo e Terrestre de Mobilidade Híbrida (eVTOL / Buggy Off-Road)</h3>
   <p><b>Versão:</b> 1.0.0-PROTOTYPE | <b>Estado:</b> Ativo / Em Desenvolvimento</p>
+  <p>FIAP - 574530 (builda)</p>
 </div>
 
 ---
